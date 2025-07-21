@@ -1,6 +1,6 @@
 # ✈️ Flight Reservation System (Java Servlet + JDBC)
 
-A simple Java-based web application for booking flights. This project uses JSP, Servlets, JDBC, and MySQL for backend and HTML/CSS for frontend.
+A simple Java-based web application for booking flights. This project uses JSP, Servlets, JDBC, and MySQL for backend and HTML for frontend.
 
 ---
 
@@ -16,7 +16,7 @@ A simple Java-based web application for booking flights. This project uses JSP, 
 ## 🛠️ Technologies Used
 
 - Java 8+
-- JSP & Servlets
+- Servlets
 - JDBC
 - MySQL
 - Apache Tomcat
@@ -29,8 +29,8 @@ A simple Java-based web application for booking flights. This project uses JSP, 
 - `core/` - Java model and service classes (Flight, Reservation)
 - `dao/` - JDBC access logic
 - `utils/` - DB connection utility
-- `webapp/` - JSP pages & web.xml
-- `sql/schema.sql` - MySQL schema
+- `webapp/` -  web.xml
+  
 
 ---
 
